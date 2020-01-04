@@ -1,2 +1,2 @@
 # hello_world
-echo("hello world");
+hello to the cloud
